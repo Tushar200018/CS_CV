@@ -1,2 +1,2 @@
-# CS_CV
+# myResume
 My CV for Computer Science Roles
